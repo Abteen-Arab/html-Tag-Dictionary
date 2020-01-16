@@ -1,0 +1,35 @@
+Tag Dictionary
+
+<a>:
+The a tag allows one to create a hyperlink (allows a word to become an anchor or link) which allows you to go to a specific URL; ie.web pages, files, etc... 
+attributes: href
+example: <a href="https://www.google.com/">Google</a> 
+
+<h1>:
+The h1 is a header tag that turns text into larger and bolder text, while putting it into seprate line. Since the text will be larger, the h1 tag is used for titles and/or headers
+attributes: None
+example: <h1>My Life In A Nutshell</h1>
+
+<h2-6>:
+Similar to h1, the h2-6 tag is a header tag that has a slightly lighter shade andb is slightly smaller than h1. The text becomes lighter and smaller as you move up the numbers; ie. h3 is lighter thatn h2, while h4 is leghter than h3.
+attributes: None
+example: <h2>Moms spaghetti</h2>
+ 
+<img>:
+The img tag allows one to upload an image onto their website; the image must be in jpg.
+attribute: src
+example: <img src+""1C6866541-tdy-130410-hungry-dog-1></img>
+ 
+<li>:
+The li tag allows one to place a list of items into point form.
+attribute: None
+example:<li>my hobbies</li>
+
+<ol>
+The ol tag allows bodies of text to be put into point form. A number is added to each point depending on the order typed.
+attribute: None
+example: <ol>
+<li>food</li>
+<li>foods</li>
+<li>foodss</li>
+</ol>
